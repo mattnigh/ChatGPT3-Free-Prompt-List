@@ -1,6 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ChatGPT-3 Prompt Engineering
+description: A free Course and Playbook for ChatGPT3 Prompt Engineering
 theme: just-the-docs
+
+baseurl: "/pages" # the subpath of your site, e.g. /blog
 
 url: https://mattnigh.github.io/ChatGPT3-Prompt-Engineering
 
