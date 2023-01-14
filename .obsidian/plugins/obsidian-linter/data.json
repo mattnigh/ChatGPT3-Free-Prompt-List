@@ -1,0 +1,234 @@
+{
+  "ruleConfigs": {
+    "Escape YAML Special Characters": {
+      "Escapes colons with a space after them (: ), single quotes ('), and double quotes (\") in YAML.": false,
+      "Try to Escape Single Line Arrays": false
+    },
+    "Force YAML Escape": {
+      "Escapes the values for the specified YAML keys.": false,
+      "Force YAML Escape on Keys": ""
+    },
+    "Format Tags in YAML": {
+      "Remove Hashtags from tags in the YAML frontmatter, as they make the tags there invalid.": false
+    },
+    "Format Yaml Array": {
+      "Allows for the formatting of regular yaml arrays as either multi-line or single-line and `tags` and `aliases` are allowed to have some Obsidian specific yaml formats. Note that single string to single-line goes from a single string entry to a single-line array if more than 1 entry is present. The same is true for single string to multi-line except it becomes a multi-line array.": false,
+      "Format yaml aliases section": true,
+      "Format yaml tags section": true,
+      "Default yaml array section style": "single-line",
+      "Format yaml array sections": true,
+      "Force key values to be single-line arrays": "",
+      "Force key values to be multi-line arrays": ""
+    },
+    "Insert YAML attributes": {
+      "Inserts the given YAML attributes into the YAML frontmatter. Put each attribute on a single line.": false,
+      "Text to insert": "aliases: \ntags: "
+    },
+    "Move Tags to Yaml": {
+      "Move all tags to Yaml frontmatter of the document.": false,
+      "Body tag operation": "Nothing",
+      "Tags to ignore": ""
+    },
+    "Remove YAML Keys": {
+      "Removes the YAML keys specified": false,
+      "YAML Keys to Remove": ""
+    },
+    "YAML Key Sort": {
+      "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": false,
+      "YAML Key Priority Sort Order": "",
+      "Priority Keys at Start of YAML": true,
+      "YAML Sort Order for Other Keys": "None"
+    },
+    "YAML Timestamp": {
+      "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": false,
+      "Date Created": true,
+      "Date Created Key": "date created",
+      "Date Modified": true,
+      "Date Modified Key": "date modified",
+      "Format": "dddd, MMMM Do YYYY, h:mm:ss a"
+    },
+    "YAML Title": {
+      "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": false,
+      "Title Key": "title"
+    },
+    "YAML Title Alias": {
+      "Inserts the title of the file into the YAML frontmatter's aliases section. Gets the title from the first H1 or filename.": false,
+      "Preserve existing aliases section style": true,
+      "Keep alias that matches the filename": false,
+      "Use the YAML key `linter-yaml-title-alias` to help with filename and heading changes": true
+    },
+    "Capitalize Headings": {
+      "Headings should be formatted with capitalization": false,
+      "Style": "Title Case",
+      "Ignore Cased Words": true,
+      "Ignore Words": "macOS, iOS, iPhone, iPad, JavaScript, TypeScript, AppleScript, I",
+      "Lowercase Words": "a, an, the, aboard, about, abt., above, abreast, absent, across, after, against, along, aloft, alongside, amid, amidst, mid, midst, among, amongst, anti, apropos, around, round, as, aslant, astride, at, atop, ontop, bar, barring, before, B4, behind, below, beneath, neath, beside, besides, between, 'tween, beyond, but, by, chez, circa, c., ca., come, concerning, contra, counting, cum, despite, spite, down, during, effective, ere, except, excepting, excluding, failing, following, for, from, in, including, inside, into, less, like, minus, modulo, mod, near, nearer, nearest, next, notwithstanding, of, o', off, offshore, on, onto, opposite, out, outside, over, o'er, pace, past, pending, per, plus, post, pre, pro, qua, re, regarding, respecting, sans, save, saving, short, since, sub, than, through, thru, throughout, thruout, till, times, to, t', touching, toward, towards, under, underneath, unlike, until, unto, up, upon, versus, vs., v., via, vice, vis-à-vis, wanting, with, w/, w., c̄, within, w/i, without, 'thout, w/o, abroad, adrift, aft, afterward, afterwards, ahead, apart, ashore, aside, away, back, backward, backwards, beforehand, downhill, downstage, downstairs, downstream, downward, downwards, downwind, east, eastward, eastwards, forth, forward, forwards, heavenward, heavenwards, hence, henceforth, here, hereby, herein, hereof, hereto, herewith, home, homeward, homewards, indoors, inward, inwards, leftward, leftwards, north, northeast, northward, northwards, northwest, now, onward, onwards, outdoors, outward, outwards, overboard, overhead, overland, overseas, rightward, rightwards, seaward, seawards, skywards, skyward, south, southeast, southwards, southward, southwest, then, thence, thenceforth, there, thereby, therein, thereof, thereto, therewith, together, underfoot, underground, uphill, upstage, upstairs, upstream, upward, upwards, upwind, west, westward, westwards, when, whence, where, whereby, wherein, whereto, wherewith, although, because, considering, given, granted, if, lest, once, provided, providing, seeing, so, supposing, though, unless, whenever, whereas, wherever, while, whilst, ago, according to, as regards, counter to, instead of, owing to, pertaining to, at the behest of, at the expense of, at the hands of, at risk of, at the risk of, at variance with, by dint of, by means of, by virtue of, by way of, for the sake of, for sake of, for lack of, for want of, from want of, in accordance with, in addition to, in case of, in charge of, in compliance with, in conformity with, in contact with, in exchange for, in favor of, in front of, in lieu of, in light of, in the light of, in line with, in place of, in point of, in quest of, in relation to, in regard to, with regard to, in respect to, with respect to, in return for, in search of, in step with, in touch with, in terms of, in the name of, in view of, on account of, on behalf of, on grounds of, on the grounds of, on the part of, on top of, with a view to, with the exception of, à la, a la, as soon as, as well as, close to, due to, far from, in case, other than, prior to, pursuant to, regardless of, subsequent to, as long as, as much as, as far as, by the time, in as much as, inasmuch, in order to, in order that, even, provide that, if only, whether, whose, whoever, why, how, or not, whatever, what, both, and, or, not only, but also, either, neither, nor, just, rather, no sooner, such, that, yet, is, it"
+    },
+    "File Name Heading": {
+      "Inserts the file name as a H1 heading if no H1 heading exists.": false
+    },
+    "Header Increment": {
+      "Heading levels should only increment by one level at a time": false,
+      "Start Header Increment at Heading Level 2": false
+    },
+    "Headings Start Line": {
+      "Headings that do not start a line will have their preceding whitespace removed to make sure they get recognized as headers.": false
+    },
+    "Remove Trailing Punctuation in Heading": {
+      "Removes the specified punctuation from the end of headings making sure to ignore the semicolon at the end of [HTML entity references](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references).": false,
+      "Trailing Punctuation": ".,;:!。，；：！"
+    },
+    "Footnote after Punctuation": {
+      "Ensures that footnote references are placed after punctuation, not before.": false
+    },
+    "Move Footnotes to the bottom": {
+      "Move all footnotes to the bottom of the document.": false
+    },
+    "Re-Index Footnotes": {
+      "Re-indexes footnote keys and footnote, based on the order of occurrence (NOTE: This rule deliberately does *not* preserve the relation between key and footnote, to be able to re-index duplicate keys.)": false
+    },
+    "Auto-correct Common Misspellings": {
+      "Uses a dictionary of common misspellings to automatically convert them to their proper spellings. See [auto-correct map](https://github.com/platers/obsidian-linter/tree/master/src/utils/auto-correct-misspellings.ts) for the full list of auto-corrected words.": false,
+      "Ignore Words": ""
+    },
+    "Convert Bullet List Markers": {
+      "Converts common bullet list marker symbols to markdown list markers.": false
+    },
+    "Emphasis Style": {
+      "Makes sure the emphasis style is consistent.": false,
+      "Style": "consistent"
+    },
+    "No Bare URLs": {
+      "Encloses bare URLs with angle brackets except when enclosed in back ticks, square braces, or single or double quotes.": false
+    },
+    "Ordered List Style": {
+      "Makes sure that ordered lists follow the style specified. Note that 2 spaces or 1 tab is considered to be an indentation level.": false,
+      "Number Style": "ascending",
+      "Ordered List Indicator End Style": "."
+    },
+    "Proper Ellipsis": {
+      "Replaces three consecutive dots with an ellipsis.": false
+    },
+    "Remove Consecutive List Markers": {
+      "Removes consecutive list markers. Useful when copy-pasting list items.": false
+    },
+    "Remove Empty List Markers": {
+      "Removes empty list markers, i.e. list items without content.": false
+    },
+    "Remove Hyphenated Line Breaks": {
+      "Removes hyphenated line breaks. Useful when pasting text from textbooks.": false
+    },
+    "Remove Multiple Spaces": {
+      "Removes two or more consecutive spaces. Ignores spaces at the beginning and ending of the line. ": false
+    },
+    "Strong Style": {
+      "Makes sure the strong style is consistent.": false,
+      "Style": "consistent"
+    },
+    "Two Spaces Between Lines with Content": {
+      "Makes sure that two spaces are added to the ends of lines with content continued on the next line for paragraphs, blockquotes, and list items": false
+    },
+    "Unordered List Style": {
+      "Makes sure that unordered lists follow the style specified.": false,
+      "List item style": "consistent"
+    },
+    "Compact YAML": {
+      "Removes leading and trailing blank lines in the YAML front matter.": false,
+      "Inner New Lines": false
+    },
+    "Consecutive blank lines": {
+      "There should be at most one consecutive blank line.": false
+    },
+    "Convert Spaces to Tabs": {
+      "Converts leading spaces to tabs.": false,
+      "Tabsize": 4
+    },
+    "Empty Line Around Blockquotes": {
+      "Ensures that there is an empty line around blockquotes unless they start or end a document. **Note that an empty line is either one less level of nesting for blockquotes or a newline character.**": false
+    },
+    "Empty Line Around Code Fences": {
+      "Ensures that there is an empty line around code fences unless they start or end a document.": false
+    },
+    "Empty Line Around Math Blocks": {
+      "Ensures that there is an empty line around math blocks using `Number of Dollar Signs to Indicate a Math Block` to determine how many dollar signs indicates a math block for single-line math.": false
+    },
+    "Empty Line Around Tables": {
+      "Ensures that there is an empty line around github flavored tables unless they start or end a document.": false
+    },
+    "Heading blank lines": {
+      "All headings have a blank line both before and after (except where the heading is at the beginning or end of the document).": false,
+      "Bottom": true,
+      "Empty Line Between Yaml and Header": true
+    },
+    "Line Break at Document End": {
+      "Ensures that there is exactly one line break at the end of a document.": false
+    },
+    "Move Math Block Indicators to Their Own Line": {
+      "Move all starting and ending math block indicators to their own lines using `Number of Dollar Signs to Indicate a Math Block` to determine how many dollar signs indicates a math block for single-line math.": false
+    },
+    "Paragraph blank lines": {
+      "All paragraphs should have exactly one blank line both before and after.": false
+    },
+    "Remove Empty Lines Between List Markers and Checklists": {
+      "There should not be any empty lines between list markers and checklists.": false
+    },
+    "Remove link spacing": {
+      "Removes spacing around link text.": false
+    },
+    "Remove Space around Characters": {
+      "Ensures that certain characters are not surrounded by whitespace (either single spaces or a tab). Note that this may causes issues with markdown format in some cases.": false,
+      "Include Fullwidth Forms": true,
+      "Include CJK Symbols and Punctuation": true,
+      "Include Dashes": true,
+      "Other symbols": ""
+    },
+    "Space after list markers": {
+      "There should be a single space after list markers and checkboxes.": false
+    },
+    "Space between Chinese Japanese or Korean and English or numbers": {
+      "Ensures that Chinese, Japanese, or Korean and English or numbers are separated by a single space. Follows these [guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)": false
+    },
+    "Trailing spaces": {
+      "Removes extra spaces after every line.": false,
+      "Two Space Linebreak": false
+    },
+    "Add Blockquote Indentation on Paste": {
+      "Adds blockquotes to all but the first line, when the cursor is in a blockquote/callout line during pasting": false
+    },
+    "Prevent Double Checklist Indicator on Paste": {
+      "Removes starting checklist indicator from the text to paste if the line the cursor is on in the file has a checklist indicator": false
+    },
+    "Prevent Double List Item Indicator on Paste": {
+      "Removes starting list indicator from the text to paste if the line the cursor is on in the file has a list indicator": false
+    },
+    "Proper Ellipsis on Paste": {
+      "Replaces three consecutive dots with an ellipsis even if they have a space between them in the text to paste": false
+    },
+    "Remove Hyphens on Paste": {
+      "Removes hyphens from the text to paste": false
+    },
+    "Remove Leading or Trailing Whitespace on Paste": {
+      "Removes any leading non-tab whitespace and all trailing whitespace for the text to paste": false
+    },
+    "Remove Leftover Footnotes from Quote on Paste": {
+      "Removes any leftover footnote references for the text to paste": false
+    },
+    "Remove Multiple Blank Lines on Paste": {
+      "Condenses multiple blank lines down into one blank line for the text to paste": false
+    }
+  },
+  "lintOnSave": true,
+  "recordLintOnSaveLogs": false,
+  "displayChanged": true,
+  "foldersToIgnore": [],
+  "linterLocale": "system-default",
+  "logLevel": 4,
+  "lintCommands": [],
+  "customRegexes": [],
+  "commonStyles": {
+    "aliasArrayStyle": "single-line",
+    "tagArrayStyle": "single-line",
+    "minimumNumberOfDollarSignsToBeAMathBlock": 2,
+    "escapeCharacter": "\""
+  }
+}
