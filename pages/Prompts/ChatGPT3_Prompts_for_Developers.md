@@ -12,6 +12,12 @@ These use cases demonstrate the versatility of ChatGPT and the potential it hold
 
 #### Use Cases
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 1.  Auto-generating code documentation
 2. Generating code documentation in markdown
 3.  Code summarization
