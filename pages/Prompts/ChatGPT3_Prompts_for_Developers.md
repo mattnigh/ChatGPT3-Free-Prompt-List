@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prompts for Devs
+title: Prompts for Developers
 parent: Prompts
 nav_order: 1
 ---
