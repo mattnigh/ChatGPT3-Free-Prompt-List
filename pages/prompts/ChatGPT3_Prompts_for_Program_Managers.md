@@ -4,6 +4,24 @@ title: Program Managers
 parent: Prompts for
 ---
 
+# Using ChatGPT as a Program Manager
+{: .no_toc }
+
+### Best Practices
+1.  Be specific and clear in your prompt - Clearly state the task or goal that you want ChatGPT to accomplish, and provide any necessary context or background information.
+    
+2.  Provide examples - Provide examples of the type of output you expect, or of similar tasks that have been accomplished in the past. This will help ChatGPT understand the desired format and structure of the output.
+    
+3.  Use structured data - If possible, provide structured data such as project timelines, task lists, and progress updates in addition to unstructured data like meeting notes and emails.
+    
+4.  Test and iterate - Test your prompts with small sets of data and iterate on the prompt and the data provided until you get the desired results.
+    
+5.  Be mindful of the size of the task - Break larger, more complex tasks into smaller, manageable chunks and use ChatGPT to tackle one piece at a time.
+    
+6.  Provide clear and detailed feedback - When providing feedback on the output, be clear and detailed about what is working well and what needs improvement.
+    
+7.  Continuously update and improve the data - Keep your data updated and relevant, and be sure to remove any irrelevant or outdated information to improve the performance of the model.
+
 # Prompts for Program Managers
 {: .no_toc }
 
