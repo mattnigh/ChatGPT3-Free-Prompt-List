@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav-order: 1
 ---
 
 # ChatGPT-3 Prompt Engineering
@@ -20,7 +21,7 @@ Imagine you're playing a game with your friends where you ask the robot a questi
 That's how prompt engineering works with ChatGPT, it's about giving the model a good instruction so it can give you a good answer. 
 
 ----
-*Want to know how I made this in one weekend?* With ChatGPT and the below resources.
+*Want to know how I made this in one weekend?* With ChatGPT and the below resources:
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
