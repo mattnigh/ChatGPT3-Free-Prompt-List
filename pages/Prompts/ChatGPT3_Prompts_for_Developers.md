@@ -18,24 +18,6 @@ These use cases demonstrate the versatility of ChatGPT and the potential it hold
 1. TOC
 {:toc}
 
-1.  Auto-generating code documentation
-2. Generating code documentation in markdown
-3.  Code summarization
-4.  Code generation
-5. Code feedback
-6.  AI-assisted coding
-7.  Auto-completing code snippets
-8.  Generating software testing scenarios
-9.  Generating data visualization code
-10.  Generating code for data preprocessing
-11.  Creating code snippets for specific programming languages
-12.  AI-assisted debugging and error resolution
-13. Generating code for data analysis
-14. Auto-generating code for Machine Learning models
-15.  Generating code for web scraping
-16.  Generating code for NLP tasks
-17.  Generating code for deployment scripts and automation
-
 ---
 
 ## Auto-generating code documentation
