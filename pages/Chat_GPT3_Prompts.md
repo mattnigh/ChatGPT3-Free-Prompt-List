@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prompts
+title: Prompts for
 has_children: true
 ---
 

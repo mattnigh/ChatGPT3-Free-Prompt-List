@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Prompts for Writing
-parent: Prompts
+title: Writing
+parent: Prompts for
 ---
 
 # Using ChatGPT for Writing

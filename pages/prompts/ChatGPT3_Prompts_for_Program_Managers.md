@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Prompts for Program Managers
-parent: Prompts
+title: Program Managers
+parent: Prompts for
 ---
 
 # Prompts for Program Managers
