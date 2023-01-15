@@ -1,3 +1,6 @@
+@import "./color_schemes/dark";
+
+
 title: Prompt Engineering
 description: A free Course and Playbook for ChatGPT3 Prompt Engineering
 theme: just-the-docs
