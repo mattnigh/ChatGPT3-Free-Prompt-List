@@ -15,4 +15,5 @@ These examples will include use cases such as code generation, code summarizatio
 
 The goal of this section is to provide a **clear understanding of the capabilities and potential of ChatGPT** and how it can be used to drive innovation in software development.
 
-- ChatGPT 3 Prompts for Developers
+- [Prompts for Developers]({% link prompts/ChatGPT3_Prompts_for_Developers.md %}) 
+- Prompts for Program Managers
