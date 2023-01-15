@@ -14,6 +14,3 @@ These examples will demonstrate the various ways in which ChatGPT can be utilize
 These examples will include use cases such as code generation, code summarization, and AI-assisted coding, among others. 
 
 The goal of this section is to provide a **clear understanding of the capabilities and potential of ChatGPT** and how it can be used to drive innovation in software development.
-
-- Prompts for Developers
-- Prompts for Program Managers

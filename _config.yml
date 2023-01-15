@@ -1,6 +1,9 @@
 title: Prompt Engineering
 description: A free Course and Playbook for ChatGPT3 Prompt Engineering
 theme: just-the-docs
+color_scheme: dark
+heading_anchors: true
+search_enabled: true
 
 baseurl: "/pages" # the subpath of your site, e.g. /blog
 

@@ -23,9 +23,7 @@ That's how prompt engineering works with ChatGPT, it's about giving the model a 
 ----
 *Want to know how I made this in one weekend?* With ChatGPT and the below resources:
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+- [Just the Docs](https://just-the-docs.github.io/just-the-docs/)
+- [GitHub Pages](https://docs.github.com/en/pages)
+- [Jekyll](https://jekyllrb.com)
+- [GitHub Pages / Actions workflow](https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/)
