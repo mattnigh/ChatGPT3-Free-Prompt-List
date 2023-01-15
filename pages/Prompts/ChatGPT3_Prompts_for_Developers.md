@@ -11,8 +11,6 @@ ChatGPT is a powerful language model that can be used in a variety of ways to as
 These use cases demonstrate the versatility of ChatGPT and the potential it holds for streamlining and automating various tasks in software development.
 
 #### Use Cases
-
-## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
