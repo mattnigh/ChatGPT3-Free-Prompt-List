@@ -5,6 +5,8 @@ parent: Prompts
 ---
 
 # Prompts for Developers
+{: .no_toc }
+
 
 ChatGPT is a powerful language model that can be used in a variety of ways to assist developers and software engineers in their work. This list presents ways that ChatGPT can be used, from auto-generating code documentation to AI-assisted coding and debugging. 
 
