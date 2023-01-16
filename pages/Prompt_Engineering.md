@@ -2,6 +2,7 @@
 layout: default
 title: Prompt Engineering
 parent: no
+nav-order: 4
 ---
 
 # Prompt Engineering: Explained
