@@ -2,7 +2,6 @@
 layout: default
 title: Prompt Engineering
 has_children: false
-nav_order: 4
 ---
 
 # Prompt Engineering: Explained
@@ -48,4 +47,22 @@ Here are some resources that you can use to study each of these topics in more d
 -   OpenAI's GPT-3 with structured data: [https://beta.openai.com/docs/models/gpt-3/guides/structured-data](https://beta.openai.com/docs/models/gpt-3/guides/structured-data)
 -   OpenAI's GPT-3 in specific applications or contexts: [https://beta.openai.com/docs/models/gpt-3/guides](https://beta.openai.com/docs/models/gpt-3/guides)
 
-These resources should give you a good starting point for learning about prompt engineering with ChatGPT-3. Keep in mind that prompt engineering is a rapidly evolving field, so it's also important to stay up-to-date with the latest developments and best practices by reading relevant articles and papers.
+## Tools to Improve Prompts
+
+There are several tools that can help improve your chatgpt prompts:
+
+1.  Pre-training: You can use pre-training techniques to fine-tune your model on a specific task or domain, such as project management or software development.
+    
+2.  Data augmentation: You can use techniques such as back-translation and synonym replacement to generate additional data to train your model.
+    
+3.  Prompt optimization: Tools like Hugging Face's prompt-toolkit can help you optimize your prompts by suggesting modifications and providing metrics such as perplexity and coherence scores.
+    
+4.  Auto-completion: Tools like OpenAI's GPT-3 Playground and Hugging Face's Write With Transformer can provide real-time auto-completion suggestions for your prompts.
+    
+5.  Evaluating and Monitoring: Tools like Hugging Face's Model Hub allows you to evaluate and monitor the performance of your prompts over time, and make adjustments as necessary.
+    
+6.  Human in the loop: Leveraging human feedback to improve the performance of your chatgpt prompts.
+    
+7.  Templates: Creating a set of templates or examples that you can easily use and adapt to your specific use case.
+    
+8.  Collaboration tools: Leveraging tools like Google Docs and GitHub to collaborate with others on your prompts, share knowledge, and get feedback.
