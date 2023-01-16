@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Program Managers
-parent: Prompts for
+parent: Prompt Use Cases
 ---
 
 # Using ChatGPT as a Program Manager

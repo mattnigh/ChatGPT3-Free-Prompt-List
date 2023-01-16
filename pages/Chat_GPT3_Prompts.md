@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prompts for
+title: Prompt Use Cases
 has_children: true
 ---
 

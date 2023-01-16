@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Developers
-parent: Prompts for
+parent: Prompt Use Cases
 ---
 
 # Using ChatGPT as an Engineer
