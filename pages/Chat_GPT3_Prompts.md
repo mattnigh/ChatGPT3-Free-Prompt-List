@@ -2,6 +2,7 @@
 layout: default
 title: Prompt Use Cases
 has_children: true
+nav-order: 2
 ---
 
 ## Example Use Cases for ChatGPT

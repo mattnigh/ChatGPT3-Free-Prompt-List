@@ -5,7 +5,6 @@ parent: no
 ---
 
 # Prompt Engineering: Explained
-{: .no_toc }
 
 Prompt engineering refers to the practice of designing and implementing effective prompts for natural language generation models, such as ChatGPT-3. The goal of prompt engineering is to generate high-quality and coherent text that is relevant to a specific task or application.
 
