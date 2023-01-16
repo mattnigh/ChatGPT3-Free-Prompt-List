@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources for ChatGPT
-has_children: fales
+has_children: false
 ---
 
 # Resources for ChatGPT
