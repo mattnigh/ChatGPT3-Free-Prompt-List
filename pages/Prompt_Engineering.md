@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prompt Engineering
-parent: no
+has_children: false
 nav-order: 4
 ---
 

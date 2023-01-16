@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evaluating Quality
-parent: no
+has_children: false
 nav-order: 3
 ---
 
