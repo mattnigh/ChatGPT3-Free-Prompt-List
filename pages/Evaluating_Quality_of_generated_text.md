@@ -2,7 +2,7 @@
 layout: default
 title: Evaluating Quality
 has_children: false
-nav-order: 3
+nav_order: 3
 ---
 
 # Evaluating Generatex Text

@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav-order: 1
+nav_order: 1
 ---
 
 # ChatGPT-3 Prompt Engineering
