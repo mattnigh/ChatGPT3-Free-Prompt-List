@@ -4,7 +4,7 @@ title: Developers
 parent: Prompt Use Cases
 ---
 
-# Using ChatGPT as an Engineer
+# Using ChatGPT as a Developer
 {: .no_toc }
 
 When creating chatgpt prompts for software development and related work, it is important to follow some best practices to ensure that the output is accurate and relevant. Some best practices to follow include:
@@ -664,6 +664,8 @@ print("Negative sentiment probability:", probs[0][0].item())
 In this example, the developer has provided GPT with a prompt describing the requirements for classifying a given piece of text as positive or negative sentiment using a pre-trained BERT model in Python. 
 
 GPT has generated a complete Python code that performs the steps provided in the prompt. This code loads the BERT tokenizer, encode the text, loads the BERT model, performs the classification, extract the classification results, converts the logits to probabilities, and print the results. 
+
+---
 
 ## Generating code for deployment scripts and automation
 

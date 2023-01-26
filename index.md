@@ -21,6 +21,8 @@ Imagine you're playing a game with your friends where you ask the robot a questi
 
 That's how prompt engineering works with ChatGPT, it's about giving the model a good instruction so it can give you a good answer. 
 
+(written by ChatGPT)
+
 ----
 
 *Want to know how I made this in one weekend?* With ChatGPT and the below resources:

@@ -309,6 +309,8 @@ The technical specifications and requirements document could contain more detail
 -   Deployment and maintenance plan
 ```
 
+---
+
 ## Generating release notes and change logs for software releases
 
 As a technical project manager, you often have to generate release notes and change logs for software releases to inform users and stakeholders of the changes and updates that have been made. 
@@ -377,6 +379,7 @@ ChatGPT's response:
     -   Implemented new security measures to protect against common attack vectors
 ```
 
+---
 
 ## Generating automated emails and notifications related to project progress and milestones.
 
@@ -407,6 +410,8 @@ ChatGPT's response could be something like:
 ```
 Hello Team, As of this week, we have completed tasks 1-5, and task 6 is currently in progress. The deadline for this project is next Friday, and we are on track to meet it. We have identified a potential risk with the integration of our software with the client's system, and we are working on a solution. Additionally, according to the burndown chart, we are ahead of schedule and the sprint velocity is increasing. Please let me know if you have any questions or concerns.
 ```
+
+---
 
 ## Generating technical documentation such as installation guides and user manuals
 
