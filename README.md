@@ -47,16 +47,16 @@ Prompt engineering is the process of designing and refining the initial text or 
 
 Ask the model to act as a...
 
-- Technical advisor: "Act as a Technical advisor and provide technical insight on the implementation of this code."
-- Mentor: "Act as a Mentor and review this code, providing feedback on areas for improvement."
-- Quality assurance: "Act as a Quality assurance and review this code to ensure it meets best practices, standards, and - requirements."
-- Code reviewer: "Act as a Code reviewer and provide feedback on the readability, efficiency, and performance of this code."
-- Debugging assistant: "Act as a Debugging assistant and suggest solutions to the technical issues found in the code."
-- Compliance checker: "Act as a Compliance checker and verify if this code is compliant with industry regulations and standards."
-- Code optimization specialist: "Act as a Code optimization specialist and suggest improvements to optimize the code's performance."
-- Accessibility Expert: "Act as an Accessibility Expert and review this code, suggesting modifications to improve accessibility."
-- Search engine optimization specialist: "Act as a Search engine optimization specialist and review this code, suggesting improvements for better search engine optimization."
-- Performance analyst: "Act as a Performance analyst and evaluate the performance of this code, suggesting improvements."
+- **Technical advisor:** "Act as a Technical advisor and provide technical insight on the implementation of this code."
+- **Mentor:** "Act as a Mentor and review this code, providing feedback on areas for improvement."
+- **Quality assurance:** "Act as a Quality assurance and review this code to ensure it meets best practices, standards, and - requirements."
+- **Code reviewer:** "Act as a Code reviewer and provide feedback on the readability, efficiency, and performance of this code."
+- **Debugging assistant:** "Act as a Debugging assistant and suggest solutions to the technical issues found in the code."
+- **Compliance checker:** "Act as a Compliance checker and verify if this code is compliant with industry regulations and standards."
+- **Code optimization specialist:** "Act as a Code optimization specialist and suggest improvements to optimize the code's performance."
+- **Accessibility Expert:** "Act as an Accessibility Expert and review this code, suggesting modifications to improve accessibility."
+- **Search engine optimization specialist:** "Act as a Search engine optimization specialist and review this code, suggesting improvements for better search engine optimization."
+- **Performance analyst:** "Act as a Performance analyst and evaluate the performance of this code, suggesting improvements."
 
 ---
 
