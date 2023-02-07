@@ -85,7 +85,9 @@ Using a prompt framework when creating prompts for ChatGPT. Frameworks provides 
 
 The final prompt being `Act as an expert on software development on the topic of machine learning frameworks,, and an expert blog writer. The audience for this blog is technical professionals who are interested in learning about the latest advancements in machine learning. Provide a comprehensive overview of the most popular machine learning frameworks, including their strengths and weaknesses. Include real-life examples and case studies to illustrate how these frameworks have been successfully used in various industries. When responding, use a mix of the writing styles of Andrej Karpathy, Francois Chollet, Jeremy Howard, and Yann LeCun.`
 
-## Fixing 'Soulless Writing'
+I would refine this by saying `Give me another example` and other prompts below (under Prompt Refinement).
+
+## Prompt Refinement: Fixing 'Soulless Writing'
 
 - **Encourage creativity:** "Rewrite the existing document to make it more imaginative, engaging, and unique."`
 - **Focus on storytelling:** `"Transform the existing document into a compelling story that highlights the challenges faced and the solutions provided."
