@@ -1,13 +1,13 @@
 # ChatGPT3 Prompt Engineering
-A guide for creating ChatGPT3 Prompts
+Guide and framework for creating ChatGPT3 Prompts
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/mattnigh/ChatGPT3-Prompt-Engineering?style=social) - **Our GitHub Stars!**
 
-This repo was developed by [@mattnigh](https://github.com/mattnigh). 
-Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/mattnigh/). 
-
 [![Deploy Jekyll site to Pages](https://github.com/mattnigh/ChatGPT3-Prompt-Engineering/actions/workflows/jekyll.yml/badge.svg)](https://github.com/mattnigh/ChatGPT3-Prompt-Engineering/actions/workflows/jekyll.yml)
  ![GitHub last commit](https://img.shields.io/github/last-commit/mattnigh/ChatGPT3-Prompt-Engineering?style=plastic)
+
+This repo was developed by [@mattnigh](https://github.com/mattnigh). 
+Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/mattnigh/). 
 
 ### What is Prompt Engineering? 
 
