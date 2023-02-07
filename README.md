@@ -3,9 +3,6 @@ A free Course and Playbook for ChatGPT3 Prompt Engineering
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/mattnigh/ChatGPT3-Prompt-Engineering?style=social) - **Our GitHub Stars!**
 
-**See example documentation generated fully by ChatGPT at:**
-https://mattnigh.github.io/ChatGPT3-Prompt-Engineering/
-
 This repo was developed by [@mattnigh](https://github.com/mattnigh). 
 Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/mattnigh/). 
 
