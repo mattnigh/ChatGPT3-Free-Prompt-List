@@ -3,7 +3,7 @@ A free Course and Playbook for ChatGPT3 Prompt Engineering
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/mattnigh/ChatGPT3-Prompt-Engineering?style=social) - **Our GitHub Stars!**
 
-**See training and documentation generated fully by ChatGPT at:**
+**See example documentation generated fully by ChatGPT at:**
 https://mattnigh.github.io/ChatGPT3-Prompt-Engineering/
 
 This repo was developed by [@mattnigh](https://github.com/mattnigh). 
@@ -13,6 +13,7 @@ Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/mattnigh/
  ![GitHub last commit](https://img.shields.io/github/last-commit/mattnigh/ChatGPT3-Prompt-Engineering?style=plastic)
 
 ### What is Prompt Engineering? 
+
 Prompt engineering is the process of designing and refining the initial text or input (the prompt) that is given to a language model like ChatGPT to generate a response. It involves designing prompts that guide the model to generate a specific tone, style, or type of content.
 
 ## Prompt Engineering: The Basics
@@ -21,6 +22,8 @@ Prompt engineering is the process of designing and refining the initial text or 
 - Ask the model to act as if is an expert of the subject
 - Ask the model to act as if it is a specific person, or combination of people 
 - Ask the model to think 'step-by-step', especially in medium to complex tasks
+- Experiment with outputs, `Give me 10 different examples`
+- Refine the results, `Rewrite this to be more engaging, use clearer language, and use bullets to make it more readable.`
 
 ## When not to use Prompt Engineering or ChatGPT
 
@@ -29,6 +32,73 @@ Prompt engineering is the process of designing and refining the initial text or 
 - When you need to generate content that is not in the model's training data
 
 ----
+
+# Creating ChatGPT Prompts: CRISP
+
+Using a prompt framework when creating prompts for ChatGPT. Frameworks provides structure and clarity to the prompt creation process. It breaks prompt creation process into clear and distinct steps. 
+
+### The CRISPE Prompt Framework:
+
+- Clarifying Role: Communicating the role/expertise you want ChatGPT to be/have in its responses.  
+- Insight: Provides ChatGPT with the behind the scenes insight, background, and context to answer the prompt.
+- Statement: What you are asking ChatGPT to do.
+- Personality: The style, personality, or manner you want ChatGPT to respond in.
+- Experiment: Asking ChatGPT to provide multiple examples to you.
+
+## How to Build Prompts -> Prompt Framework
+
+<table>
+  <tr>
+   <td>Step
+   </td>
+   <td>Example Prompt
+   </td>
+  </tr>
+  <tr>
+   <td>Clarifying Role
+   </td>
+   <td>`Act as an expert on software development on the topic of machine learning frameworks,, and an expert blog writer.`
+   </td>
+  </tr>
+  <tr>
+   <td>Insight
+   </td>
+   <td>`The audience for this blog is technical professionals who are interested in learning about the latest advancements in machine learning.`
+   </td>
+  </tr>
+  <tr>
+   <td>Statement
+   </td>
+   <td>`Provide a comprehensive overview of the most popular machine learning frameworks, including their strengths and weaknesses. Include real-life examples and case studies to illustrate how these frameworks have been successfully used in various industries.`
+   </td>
+  </tr>
+  <tr>
+   <td>Personality
+   </td>
+   <td>`When responding, use a mix of the writing styles of Andrej Karpathy, Francois Chollet, Jeremy Howard, and Yann LeCun.`
+   </td>
+  </tr>
+  <tr>
+   <td>Experiment
+   </td>
+   <td>`Give me multiple different examples.`
+   </td>
+  </tr>
+</table>
+
+## Fixing 'Soulless Writing'
+
+- **Encourage creativity:** "Rewrite the existing document to make it more imaginative, engaging, and unique."`
+- **Focus on storytelling:** `"Transform the existing document into a compelling story that highlights the challenges faced and the solutions provided."
+- **Use persuasive language:** `"Refine the existing document by incorporating persuasive language and techniques to make it more convincing and impactful."
+- **Emphasize emotion:** `"Add emotional language and sensory details to the existing document to make it more relatable and engaging."
+- **Utilize sensory details:** `"Refine the existing document by adding sensory details and descriptive language to bring it to life and engage the reader."
+- **Make the content concise:** `"Refine the existing document by removing unnecessary information and making it more concise and to-the-point."
+- **Highlight key points:** `"Rewrite the existing document to emphasize the key points and make them more impactful."
+- **Use vivid language:** `"Refine the existing document by using vivid language and descriptive adjectives to make it more engaging."
+- **Create a sense of urgency:** "Refine the existing document by adding a sense of urgency and emphasizing the need for immediate action."
+- **Address objections:** "Refine the existing document by anticipating and addressing potential objections to the content."
+- **Personalize the content:** "Refine the existing document by personalizing the language and making it more relatable to the reader."
 
 ## Prompts for Web Developers
 
