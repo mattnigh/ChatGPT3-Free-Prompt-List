@@ -1,5 +1,5 @@
 # ChatGPT3 Prompt Engineering
-A free Course and Playbook for ChatGPT3 Prompt Engineering
+A guide for creating ChatGPT3 Prompts
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/mattnigh/ChatGPT3-Prompt-Engineering?style=social) - **Our GitHub Stars!**
 
