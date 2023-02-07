@@ -45,7 +45,7 @@ Using a prompt framework when creating prompts for ChatGPT. Frameworks provides 
 - **Personality:** The style, personality, or manner you want ChatGPT to respond in.
 - **Experiment:** Asking ChatGPT to provide multiple examples to you.
 
-## How to Build Prompts -> Prompt Framework
+## How to Build Prompts -> CRISPE Example
 
 <table>
   <tr>
@@ -85,6 +85,8 @@ Using a prompt framework when creating prompts for ChatGPT. Frameworks provides 
    </td>
   </tr>
 </table>
+
+The final prompt being `Act as an expert on software development on the topic of machine learning frameworks,, and an expert blog writer. The audience for this blog is technical professionals who are interested in learning about the latest advancements in machine learning. Provide a comprehensive overview of the most popular machine learning frameworks, including their strengths and weaknesses. Include real-life examples and case studies to illustrate how these frameworks have been successfully used in various industries. When responding, use a mix of the writing styles of Andrej Karpathy, Francois Chollet, Jeremy Howard, and Yann LeCun.`
 
 ## Fixing 'Soulless Writing'
 
