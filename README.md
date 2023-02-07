@@ -1,16 +1,13 @@
 # ChatGPT3 Prompt Engineering
-A free Course and Playbook for ChatGPT3 Prompt Engineering
+Guide and framework for creating ChatGPT3 Prompts
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/mattnigh/ChatGPT3-Prompt-Engineering?style=social) - **Our GitHub Stars!**
 
-**See example documentation generated fully by ChatGPT at:**
-https://mattnigh.github.io/ChatGPT3-Prompt-Engineering/
+[![Deploy Jekyll site to Pages](https://github.com/mattnigh/ChatGPT3-Prompt-Engineering/actions/workflows/jekyll.yml/badge.svg)](https://github.com/mattnigh/ChatGPT3-Prompt-Engineering/actions/workflows/jekyll.yml)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/mattnigh/ChatGPT3-Prompt-Engineering?style=plastic)
 
 This repo was developed by [@mattnigh](https://github.com/mattnigh). 
 Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/mattnigh/). 
-
-[![Deploy Jekyll site to Pages](https://github.com/mattnigh/ChatGPT3-Prompt-Engineering/actions/workflows/jekyll.yml/badge.svg)](https://github.com/mattnigh/ChatGPT3-Prompt-Engineering/actions/workflows/jekyll.yml)
- ![GitHub last commit](https://img.shields.io/github/last-commit/mattnigh/ChatGPT3-Prompt-Engineering?style=plastic)
 
 ### What is Prompt Engineering? 
 
@@ -88,7 +85,9 @@ Using a prompt framework when creating prompts for ChatGPT. Frameworks provides 
 
 The final prompt being `Act as an expert on software development on the topic of machine learning frameworks,, and an expert blog writer. The audience for this blog is technical professionals who are interested in learning about the latest advancements in machine learning. Provide a comprehensive overview of the most popular machine learning frameworks, including their strengths and weaknesses. Include real-life examples and case studies to illustrate how these frameworks have been successfully used in various industries. When responding, use a mix of the writing styles of Andrej Karpathy, Francois Chollet, Jeremy Howard, and Yann LeCun.`
 
-## Fixing 'Soulless Writing'
+I would refine this by saying `Give me another example` and other prompts below (under Prompt Refinement).
+
+## Prompt Refinement: Fixing 'Soulless Writing'
 
 - **Encourage creativity:** "Rewrite the existing document to make it more imaginative, engaging, and unique."`
 - **Focus on storytelling:** `"Transform the existing document into a compelling story that highlights the challenges faced and the solutions provided."
