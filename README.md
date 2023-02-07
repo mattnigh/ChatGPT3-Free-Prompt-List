@@ -101,6 +101,17 @@ I would refine this by saying `Give me another example` and other prompts below 
 - **Address objections:** "Refine the existing document by anticipating and addressing potential objections to the content."
 - **Personalize the content:** "Refine the existing document by personalizing the language and making it more relatable to the reader."
 
+## Prompt Refinement: Increase Readability
+
+- **Use clear and concise language:** "Explain technical concepts in simple terms."
+- **Add visual aids:** "Using mermaid.js you can include diagrams to illustrate complex concepts (low reliability)."
+- **Use headings and subheadings:** "Divide the document into sections with clear headings and subheadings."
+- **Highlight key points:** "Emphasize important information using bold or italic text."
+- **Add real-life examples:** "Include case studies or real-world examples to make concepts more relatable."
+- **Use clear and consistent formatting:** "Use a consistent font, font size, and layout throughout the document."
+- **Include analogies and comparisons:** "Explain complex ideas using analogies or comparisons."
+- **Use active voice:** "Write in active voice to make sentences more engaging and easier to follow."
+
 ## Prompts for Web Developers
 
 - "What is the difference between HTML, CSS, and JavaScript?"
@@ -120,7 +131,7 @@ I would refine this by saying `Give me another example` and other prompts below 
 - "What are the best practices for structuring HTML, CSS, and JavaScript code?"
 - "What is the best way to optimize this code for search engines?"
 
-## ChatGPT3 can Pair Program
+## ChatGPT3 can also Pair Program
 
 Ask the model to act as a...
 
