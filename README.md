@@ -30,9 +30,9 @@ Prompt engineering is the process of designing and refining the initial text or 
 
 ----
 
-# Creating ChatGPT Prompts: CRISPE
+# Creating ChatGPT Prompts: A Framework
 
-Using a prompt framework when creating prompts for ChatGPT. Frameworks provides structure and clarity to the prompt creation process. It breaks prompt creation process into clear and distinct steps. I created the below framework for my own use and experimentation of ChatGPT.
+Using a prompt framework when creating prompts for ChatGPT. Frameworks provides structure and clarity to the prompt creation process. It breaks prompt creation process into clear and distinct steps. I created the below framework (CRISPE) for my own use and experimentation of ChatGPT.
 
 ### CRISPE Prompt Framework:
 
@@ -85,7 +85,7 @@ Using a prompt framework when creating prompts for ChatGPT. Frameworks provides 
 
 The final prompt being `Act as an expert on software development on the topic of machine learning frameworks,, and an expert blog writer. The audience for this blog is technical professionals who are interested in learning about the latest advancements in machine learning. Provide a comprehensive overview of the most popular machine learning frameworks, including their strengths and weaknesses. Include real-life examples and case studies to illustrate how these frameworks have been successfully used in various industries. When responding, use a mix of the writing styles of Andrej Karpathy, Francois Chollet, Jeremy Howard, and Yann LeCun.`
 
-I would refine this by saying `Give me another example` and other prompts below (under Prompt Refinement).
+I would refine this by saying `Give me another example` or `Give me multiple examples` and other prompts below (under Prompt Refinement).
 
 ## Prompt Refinement: Fixing 'Soulless Writing'
 
