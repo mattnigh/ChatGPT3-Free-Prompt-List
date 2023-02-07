@@ -37,13 +37,13 @@ Prompt engineering is the process of designing and refining the initial text or 
 
 Using a prompt framework when creating prompts for ChatGPT. Frameworks provides structure and clarity to the prompt creation process. It breaks prompt creation process into clear and distinct steps. 
 
-### The CRISPE Prompt Framework:
+### CRISPE Prompt Framework:
 
-- Clarifying Role: Communicating the role/expertise you want ChatGPT to be/have in its responses.  
-- Insight: Provides ChatGPT with the behind the scenes insight, background, and context to answer the prompt.
-- Statement: What you are asking ChatGPT to do.
-- Personality: The style, personality, or manner you want ChatGPT to respond in.
-- Experiment: Asking ChatGPT to provide multiple examples to you.
+- **Clarifying Role:** Communicating the role/expertise you want ChatGPT to be/have in its responses.  
+- **Insight:** Provides the behind the scenes insight, background, and context to your request.
+- **Statement:** What you are asking ChatGPT to do.
+- **Personality:** The style, personality, or manner you want ChatGPT to respond in.
+- **Experiment:** Asking ChatGPT to provide multiple examples to you.
 
 ## How to Build Prompts -> Prompt Framework
 
