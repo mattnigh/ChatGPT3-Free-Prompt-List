@@ -22,6 +22,12 @@ Prompt engineering is the process of designing and refining the initial text or 
 - Ask the model to act as if it is a specific person, or combination of people 
 - Ask the model to think 'step-by-step', especially in medium to complex tasks
 
+## When not to use Prompt Engineering or ChatGPT
+
+- When you need 100% reliability
+- When you have no way to evaluate the accuracy of the model's output
+- When you need to generate content that is not in the model's training data
+
 ----
 
 ## Prompts for Web Developers
@@ -60,7 +66,7 @@ Ask the model to act as a...
 
 ---
 
-Recommended Resources
+## Recommended Resources
 
 - [OpenAI CookBook](https://github.com/openai/openai-cookbook/): Shares example code for common tasks with the OpenAI API
 - [OpenAI API](https://beta.openai.com/docs/api-reference/introduction): The OpenAI API is a RESTful API that allows you to interact with the OpenAI API using any programming language.
