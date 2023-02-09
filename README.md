@@ -36,7 +36,7 @@ Using a prompt framework when creating prompts for ChatGPT. Frameworks provides 
 
 ### CRISPE Prompt Framework:
 
-- **Clarifying Role:** Communicating the role/expertise you want ChatGPT to be/have in its responses.  
+- **Capacity:** What role (or roles) should ChatGPT act as?  
 - **Insight:** Provides the behind the scenes insight, background, and context to your request.
 - **Statement:** What you are asking ChatGPT to do.
 - **Personality:** The style, personality, or manner you want ChatGPT to respond in.
@@ -52,9 +52,9 @@ Using a prompt framework when creating prompts for ChatGPT. Frameworks provides 
    </td>
   </tr>
   <tr>
-   <td>Clarifying Role
+   <td>Capacity
    </td>
-   <td>`Act as an expert on software development on the topic of machine learning frameworks,, and an expert blog writer.`
+   <td>`Act as an expert on software development on the topic of machine learning frameworks, and an expert blog writer.`
    </td>
   </tr>
   <tr>
