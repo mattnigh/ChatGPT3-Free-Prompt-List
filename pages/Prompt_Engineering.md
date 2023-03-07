@@ -40,12 +40,11 @@ To learn about prompt engineering in ChatGPT, there are several key areas you ma
 
 Here are some resources that you can use to study each of these topics in more depth:
 
--   OpenAI documentation on ChatGPT-3: [https://beta.openai.com/docs/models/gpt-3](https://beta.openai.com/docs/models/gpt-3)
--   OpenAI's GPT-3 Playground: [https://beta.openai.com/playground/gpt-3](https://beta.openai.com/playground/gpt-3)
--   OpenAI's GPT-3 use cases: [https://openai.com/use-cases/gpt-3-use-cases/](https://openai.com/use-cases/gpt-3-use-cases/)
--   OpenAI's GPT-3 fine-tuning: [https://beta.openai.com/docs/models/gpt-3/fine-tuning](https://beta.openai.com/docs/models/gpt-3/fine-tuning)
--   OpenAI's GPT-3 with structured data: [https://beta.openai.com/docs/models/gpt-3/guides/structured-data](https://beta.openai.com/docs/models/gpt-3/guides/structured-data)
--   OpenAI's GPT-3 in specific applications or contexts: [https://beta.openai.com/docs/models/gpt-3/guides](https://beta.openai.com/docs/models/gpt-3/guides)
+-   OpenAI documentation on ChatGPT-3: [https://platform.openai.com/docs/models/gpt-3](https://platform.openai.com/docs/models/gpt-3)
+-   OpenAI's GPT-3 Playground: [https://platform.openai.com/playground](https://platform.openai.com/playground)
+-   OpenAI's GPT-3 examples: [https://platform.openai.com/examples](https://platform.openai.com/examples)
+-   OpenAI's GPT-3 fine-tuning: [https://platform.openai.com/docs/guides/fine-tuning](https://platform.openai.com/docs/guides/fine-tuning)
+-   OpenAI's GPT-3 in specific applications or contexts: [https://platform.openai.com/docs/guides/completion](https://platform.openai.com/docs/guides/completion)
 
 ## Tools to Improve Prompts
 
